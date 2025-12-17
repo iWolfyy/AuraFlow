@@ -71,7 +71,7 @@ Follow these steps to get a local copy up and running.
 
 |         Dashboard         |       Habit Tracker       |      Mood Analytics       |
 | :-----------------------: | :-----------------------: | :-----------------------: |
-| _(Place screenshot here)_ | _(Place screenshot here)_ | _(Place screenshot here)_ |
+|<img width="1080" height="2400" alt="Screenshot_20251022_014943" src="https://github.com/user-attachments/assets/2d758449-a992-4425-9a37-416f1bd590fa" /> | <img width="1080" height="2400" alt="Screenshot_20251022_014933" src="https://github.com/user-attachments/assets/0826285c-8c29-4bdc-8df6-66f2d28e7bc8" />|<img width="1080" height="2400" alt="Screenshot_20251022_014938" src="https://github.com/user-attachments/assets/223b913d-1618-4655-8de2-8dfe29677b3c" /> |
 
 ## 🤝 Contributing
 
