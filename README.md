@@ -11,6 +11,9 @@
 
 AuraFlow goes beyond simple habit tracking. It integrates daily routine management with health metrics like hydration and mood tracking, visualizing your progress through intuitive charts. With a focus on privacy and user experience, it features biometric security and a clean, modern UI.
 
+<img width="1920" height="1440" alt="486shots_so" src="https://github.com/user-attachments/assets/318ee24c-2d5f-44f4-891c-0fad1ee4b890" />
+
+
 ## ✨ Key Features
 
 - **✅ Habit Tracking**: Create, manage, and track your daily habits with ease.
