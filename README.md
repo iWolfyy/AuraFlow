@@ -23,7 +23,6 @@ AuraFlow goes beyond simple habit tracking. It integrates daily routine manageme
   - Interactive charts powered by `MPAndroidChart`.
   - Beautiful animations using `Lottie`.
 - **🔒 Secure & Private**:
-  - **Biometric Authentication**: Protect your data with Fingerprint/Face ID.
   - **Encrypted Data**: Built with `androidx.security.crypto` for peace of mind.
 - **🛠 Home Screen Widget**: Quick access to your progress right from your home screen.
 - **🌑 Dark Mode Support**: Easy on the eyes, day or night.
