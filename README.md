@@ -91,6 +91,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name - [wadptw@gmail.com](mailto:wadptw@gmail.com)
+Pavithra Wijesooriya - [wadptw@gmail.com](mailto:wadptw@gmail.com)
 
 Project Link: [https://github.com/iWolfyy/AuraFlow](https://github.com/iWolfyy/AuraFlow)
